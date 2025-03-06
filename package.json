@@ -1,7 +1,7 @@
 {
   "name": "week-six",
   "private": true,
-  "version": "1.0.4",
+  "version": "2.0.0",
   "type": "module",
   "homepage": "https://brilliant-smart.github.io/FIP-FrontEnd-Week-6",
   "scripts": {
