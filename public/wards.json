@@ -1,0 +1,67 @@
+[
+  {
+    "ward": "Ajiya",
+    "lga": "Gombe",
+    "code": "GM0601"
+  },
+  {
+    "ward": "Akko",
+    "lga": "Akko",
+    "code": "GM0101"
+  },
+  {
+    "ward": "Ashaka / Magaba",
+    "lga": "Funakaye",
+    "code": "GM0501"
+  },
+  {
+    "ward": "Awak",
+    "lga": "Kaltungo",
+    "code": "GM0701"
+  },
+  {
+    "ward": "Banaje North",
+    "lga": "Billiri",
+    "code": "GM0301"
+  },
+  {
+    "ward": "Banaje South",
+    "lga": "Billiri",
+    "code": "GM0302"
+  },
+  {
+    "ward": "Bage",
+    "lga": "Funakaye",
+    "code": "GM0502"
+  },
+  {
+    "ward": "Bajoga",
+    "lga": "Gombe",
+    "code": "GM0602"
+  },
+  {
+    "ward": "Bajoga East",
+    "lga": "Funakaye",
+    "code": "GM0504"
+  },
+  {
+    "ward": "Bajoga West",
+    "lga": "Funakaye",
+    "code": "GM0503"
+  },
+  {
+    "ward": "Bambam",
+    "lga": "Balanga",
+    "code": "GM0201"
+  },
+  {
+    "ward": "Bangu",
+    "lga": "Balanga",
+    "code": "GM0202"
+  },
+  {
+    "ward": "Bangunji",
+    "lga": "Shongom",
+    "code": "GM1001"
+  }
+]
