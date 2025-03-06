@@ -56,10 +56,12 @@ const RecruitmentForm = () => {
   useEffect(() => {
     const fetchWards = async () => {
       try {
-        const response = await axios.get("/wards.json"); // Adjust path if needed
-        setWards(response.data);
+        const response = await axios.get("./wards.json");
+        console.log("Fetched Wards:", response.data); // ✅ Debugging
+        setWards(response.data || []); // ✅ Ensure it's an array
       } catch (err) {
         console.error("Error fetching wards:", err);
+        setWards([]); // ✅ Prevents undefined errors
       }
     };
     fetchWards();
